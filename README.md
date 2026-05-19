@@ -27,7 +27,7 @@
 ---
 
 ## 📎 Ссылки
-- [Код тестов](src/test/java/PasswordValidatorTest.java)
-- [Основной класс](src/main/java/PasswordValidator.java)
+- [Код тестов](PasswordValidatorTest.java)
+- [Основной класс](PasswordValidator.java)
 
-*Дата: 11.03.2026*
+*Дата: 19.05.2026*
